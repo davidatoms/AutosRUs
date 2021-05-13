@@ -1,5 +1,5 @@
 # MechaCar Statistical Analysis
-Using statistics, hypothesis testing, and the R computer programming language, I analyzed a series of datasets from the automotive industry.
+Using statistics, hypothesis testing, and the R computer programming language, I analyzed a series of datasets from the automotive industry. I will use linear regression in 'R' to predict miles per gallon for certain cars. 
 
 ## What I Learned/Achieved:
 - How to load, clean up, and reshape datasets using tidyverse in R.

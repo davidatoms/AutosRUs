@@ -95,4 +95,6 @@ mean of x: 1496.14
 ```
 
 ## Study Design Prospects:
+Competition with other cars can be applied with business intelligence about the consumers. MechaCar can use this data to compare their car designs with competitors and see how well it compares to their designs. If consumers are looking for cars with better fuel efficiency, then this could be a valuable piece of data for MechaCar to use in their advertising.
+
 I believe that the information here would be beneficial for the Mecha Car company to use internally. If there is a production deadline, they can use the information to produce cars that are compliant and share this statistics with new customers. It can further be used to make the cars more fuel efficient. Just like we saw at the beginning of the course, there is a push for cars to become electric. Fuel consumption will then look different, but we can still use the data for weight and length to run further tests on the cars Mecha Cars will produce.
